@@ -1,1 +1,1 @@
-# hello.py2
+print("Hello from Binder!")
